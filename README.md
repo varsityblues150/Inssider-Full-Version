@@ -237,3 +237,6 @@ This repository serves as the official landing page for inSSIDer. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of inSSIDer today!**
+
+---
+**Last updated:** 2026-09-11 20:45:00 UTC
