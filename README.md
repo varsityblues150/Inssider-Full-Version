@@ -239,4 +239,4 @@ This repository serves as the official landing page for inSSIDer. The software i
 **Get the most recent version of inSSIDer today!**
 
 ---
-**Last updated:** 2026-11-06 20:45:16 UTC
+**Last updated:** 2026-11-07 00:45:22 UTC
